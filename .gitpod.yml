@@ -25,3 +25,5 @@ vscode:
   extensions:
     - bradlc.vscode-tailwindcss@0.6.11
     - this-fifo.natty@0.0.2
+    - onecentlin.laravel-blade@1.32.0
+    
