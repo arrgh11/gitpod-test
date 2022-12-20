@@ -50,7 +50,7 @@
     /**
     * Typography
     **/
-    "workbench.colorTheme": "Gitpod Dark",
+    "workbench.colorTheme": "Natty",
     "editor.fontSize": 12,
     "editor.lineHeight": 1.75,
     "editor.suggestFontSize": 15,

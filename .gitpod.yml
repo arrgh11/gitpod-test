@@ -21,3 +21,7 @@ tasks:
     command: >
       php -S 0.0.0.0:8000 -t public
     
+vscode:
+  extensions:
+    - bradlc.vscode-tailwindcss@0.6.11
+    - this-fifo.natty@0.0.2
